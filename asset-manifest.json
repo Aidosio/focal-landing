@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/focal-landing/static/css/main.c68f0d3c.css",
+    "main.js": "/focal-landing/static/js/main.0ae6cb5a.js",
+    "static/js/592.e790a1ed.chunk.js": "/focal-landing/static/js/592.e790a1ed.chunk.js",
+    "static/media/wrapper.png": "/focal-landing/static/media/wrapper.5c7b8514a6a82bde2428.png",
+    "static/media/section_cta-app-wrapper.png": "/focal-landing/static/media/section_cta-app-wrapper.3c422d4809ea870782a4.png",
+    "static/media/embed-container.png": "/focal-landing/static/media/embed-container.4a82c2e19cc3227124b4.png",
+    "static/media/focal-app-wrapper-editor-1.png": "/focal-landing/static/media/focal-app-wrapper-editor-1.2c6ef94ee656cc947ca8.png",
+    "static/media/focal-app-wrapper-editor-3.png": "/focal-landing/static/media/focal-app-wrapper-editor-3.296485648d90760f43e9.png",
+    "static/media/focal-app-wrapper-editor-2.png": "/focal-landing/static/media/focal-app-wrapper-editor-2.9182c24bc83909f36ccb.png",
+    "static/media/hub1.png": "/focal-landing/static/media/hub1.4c424d3545f54d9cec80.png",
+    "static/media/hub6.png": "/focal-landing/static/media/hub6.41b2606e8c38a2c329bd.png",
+    "static/media/hub5.png": "/focal-landing/static/media/hub5.74787f5d95605a00bd8b.png",
+    "static/media/hub3.png": "/focal-landing/static/media/hub3.a7ed3d8057f9f02aa549.png",
+    "static/media/hub2.png": "/focal-landing/static/media/hub2.a15337ff30759a9b8e62.png",
+    "static/media/hub4.png": "/focal-landing/static/media/hub4.934ca81f09e7a5cb1f68.png",
+    "static/media/focus.png": "/focal-landing/static/media/focus.4e3a88e6e0df56e8c5c5.png",
+    "static/media/logo-light.svg": "/focal-landing/static/media/logo-light.51948605ff10c4a20f57734a713e6c0f.svg",
+    "static/media/logo.svg": "/focal-landing/static/media/logo.5b4932cb47a031a0692c66a06fd29958.svg",
+    "static/media/slick.svg": "/focal-landing/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/menu.svg": "/focal-landing/static/media/menu.d1b3116035565688ef8c8d7dc981b1ac.svg",
+    "static/media/slick.eot": "/focal-landing/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/focal-landing/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/play.svg": "/focal-landing/static/media/play.4fe0cc47b4270504fb02901b277bf67c.svg",
+    "static/media/slick.woff": "/focal-landing/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/focal-landing/index.html",
+    "main.c68f0d3c.css.map": "/focal-landing/static/css/main.c68f0d3c.css.map",
+    "main.0ae6cb5a.js.map": "/focal-landing/static/js/main.0ae6cb5a.js.map",
+    "592.e790a1ed.chunk.js.map": "/focal-landing/static/js/592.e790a1ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c68f0d3c.css",
+    "static/js/main.0ae6cb5a.js"
+  ]
+}

@@ -43,7 +43,7 @@ function HeaderComponent() {
                         <NavTypographyStyle>
                             Pricing
                         </NavTypographyStyle>
-                    </NavGroupStyle> : <img src={menu} alt="menu"/>}
+                    </NavGroupStyle> : <NavTypographyStyle><img src={menu} alt="menu"/></NavTypographyStyle>}
                 <Button variant={'contained'}>Request access</Button>
             </BoxStyle>
         </Container>
